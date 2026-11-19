@@ -1,0 +1,2 @@
+psutil>=6.0,<8
+pyinstaller>=6.10,<7
